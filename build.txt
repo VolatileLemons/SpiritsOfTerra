@@ -1,0 +1,7 @@
+author = kook
+version = 1.0.12
+displayName = Spirits of Terra
+homepage = https://discord.gg/ewDwhp6Nn3
+hideCode = false
+hideResources = false
+includePDB = true

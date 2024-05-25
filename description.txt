@@ -1,8 +1,3 @@
-# SpiritsOfTerra
-## An awsome Terraria mod
-The Github is now populated! 
-🥳🥳
-
 THIS MOD IS NOT COMPLETE AND IS IN IT'S VERY EARLY STAGES OF DEVELOPEMENT, ONLY A FEW ITEMS ARE ADDED
 Requires cheatsheet for most things
 
@@ -18,3 +13,5 @@ Non-existent beans
 Kaelan
 Microwave noise
 Devraza
+
+Follow the Discord for updates: https://discord.gg/ewDwhp6Nn3
